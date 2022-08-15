@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-15T09:42:09.624Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="c9M20o5K8Yh-pfqCu4QL" version="20.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-15T09:44:12.907Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="58uzkxD32NyFjRtmKRz-" version="20.2.3" type="github" pages="3">
   <diagram id="2rhtGO0KNUIndY7hLYg8" name="锁升级">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -588,6 +588,20 @@
         </mxCell>
         <mxCell id="TixKQl3dPSeUQMG79ixl-6" value="apollo配置变更" style="rounded=1;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;labelBorderColor=none;html=1;sketch=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="1285" y="500" width="90" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="z_d4Xp3KNV8Rs13ChXQv" name="SPI">
+    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="t91M-SybvI1vghTUvRrQ-1" value="调用方" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="430" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="t91M-SybvI1vghTUvRrQ-2" value="标准接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="430" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
