@@ -1,1 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2022-11-02T08:23:15.679Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.5.1" etag="3FRX7au7ut50X318vOQr" type="github"><diagram id="CqN74b-jItRRq5Q3Y43E">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-03T03:32:16.536Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="PVjPDeHG61Ae8GDYFI4q" version="20.5.1" type="github">
+  <diagram id="CqN74b-jItRRq5Q3Y43E" name="第 1 页">
+    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="52fmHzx6xamefgT8uugE-6" value="data-compliance" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="210" width="310" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="52fmHzx6xamefgT8uugE-7" value="&lt;b&gt;data-compliance-rules&lt;/b&gt;" style="html=1;" vertex="1" parent="52fmHzx6xamefgT8uugE-6">
+          <mxGeometry width="190" height="40" relative="1" as="geometry">
+            <mxPoint x="70" y="50" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="52fmHzx6xamefgT8uugE-11" value="&lt;b&gt;database-starter&lt;/b&gt;" style="html=1;" vertex="1" parent="52fmHzx6xamefgT8uugE-6">
+          <mxGeometry x="70" y="110" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="52fmHzx6xamefgT8uugE-12" value="规则源数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="120" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="52fmHzx6xamefgT8uugE-15" value="Business" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="240" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="52fmHzx6xamefgT8uugE-16" value="业务源数据落库" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;" vertex="1" parent="52fmHzx6xamefgT8uugE-15">
+          <mxGeometry width="150" height="70" relative="1" as="geometry">
+            <mxPoint y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
